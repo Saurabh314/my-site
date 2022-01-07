@@ -1,0 +1,124 @@
+.ab {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    margin-bottom: 40px;
+   
+}
+body {
+    margin: 0;
+    text-align: center;
+    padding-bottom: 0px;
+}
+h1 {
+    font-family: 'Moon Dance', cursive;
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem; 16px = 100% = 1em
+    margin: 0;
+}
+h2 {
+    color: #11999E;
+}
+h3 {
+    color: #11999E;
+}
+a {
+    color: #11999E;
+    margin: 10px 20px;
+}
+a:hover {
+    color: white;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.P {
+    margin: 0;
+    font-size: 2.5rem;
+    margin-bottom: 50px;
+    color: #66BFBF;
+    font-weight: normal;
+}
+.pro {
+    text-decoration: underline;
+}
+.upcloud {
+    position: absolute;
+    right: 20%;
+    top: 50px;
+}
+.botcloud {
+    position: absolute;
+    left: 20%;
+}
+.image {
+    margin-left: 30px;
+    float: left;
+    border-radius: 50%;
+    width: 25%;
+}
+p {
+    font-size: large;
+    color: #40514E;
+}
+hr {
+    margin: 60px auto 60px auto;
+
+    width: 5%;
+    
+    border: none;
+    
+    border-top: dotted;
+    
+    border-width: 10px;
+    border-color: #EAF6F6;
+}
+.mid {
+    width: 30%;
+    margin: auto;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .bottom-container {
+      margin: 100px 0 0 0;
+      background-color: #66BFBF;
+      padding: 50px 0 20px;
+  }
+  .no {
+      margin: 50px;
+  }
+  html {
+      padding-bottom: 0;
+  }
+  .yes {
+      color: white;
+      font-size: 0.75rem;
+      padding: 10px 0;
+  }
